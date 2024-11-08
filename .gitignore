@@ -1,0 +1,50 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment directories
+.venv/
+env/
+venv/
+
+# IDE configurations
+.idea/
+.vscode/
+
+# MacOS Finder
+.DS_Store
+*.DS_Store
+*/.DS_Store
+
+# Log files
+*.log
+
+# Dependency directories
+Pipfile.lock
+
+# Python egg and distribution directories
+*.egg-info/
+dist/
+build/
+
+# Test result directories
+nosetests.xml
+coverage.xml
+*.cover
+*.hypothesis/
+
+# pyenv
+.python-version
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Other temporary or system files
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+
+
